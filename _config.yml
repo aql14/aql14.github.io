@@ -30,7 +30,7 @@ twitter_username: jekyllrb
 github_username:  aql14
 
 # Build settings
-theme: tactile
+theme: minimal
 plugins:
   - jekyll-feed
 
