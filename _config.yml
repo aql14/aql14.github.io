@@ -31,7 +31,7 @@ twitter_username: jekyllrb
 github_username:  aql14
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
