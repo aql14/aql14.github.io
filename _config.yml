@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Music Reviews
+title: 02687
 
 email: alvarocuele@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -32,8 +32,10 @@ github_username:  aql14
 
 # Build settings
 theme: minima
+remote_theme: daattali/beautiful-jekyll@5.0.0 
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.

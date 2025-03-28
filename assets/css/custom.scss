@@ -1,0 +1,28 @@
+---
+---
+
+.figure-wrapper {
+  max-width: 800px;
+  margin: 2rem auto;
+  text-align: center;
+  
+  img {
+    border: 1px solid #ddd;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    width: 100%;
+  }
+}
+
+.figure-caption {
+  color: #666;
+  font-size: 0.9rem;
+  margin-top: 0.5rem;
+  padding: 0 1rem;
+}
+
+
+.figure-wrapper img {
+    border: 3px solid red;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    width: 100%;
+}
