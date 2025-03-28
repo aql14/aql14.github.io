@@ -2,11 +2,11 @@
 layout: post
 title: "Two Star and The Dream Police – A Sonic Journey"
 date: 2025-03-18
-author: Álvaro Quintana
+author: Álvaro Quintana López
 categories: Music
 ---
 
-## *Two Star and The Dream Police* by Mk.gee  
+## *Two Star and The Dream Police* by *Mk.gee*  
 
 Mk.gee's *Two Star and The Dream Police* is an album that redefines the boundaries between indie, electronic, and alternative R&B. Released in 2023, this project showcases Mk.gee’s evolution as an artist, blending intricate production with introspective songwriting and a distinct sonic palette.  
 
