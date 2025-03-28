@@ -21,6 +21,10 @@ This album feels like a dreamscape, with lush synths, groovy basslines, and haun
 ### **Why It’s Special**  
 *Two Star and The Dream Police* stands out because of Mk.gee’s attention to detail and willingness to experiment. Every track feels intentional, and the album as a whole flows seamlessly, making it a cohesive and deeply personal piece of work.  
 
+> "I believe in your motion tonight..."
+
 If you haven’t listened to it yet, I highly recommend taking the time to experience the album from start to finish. It’s a journey worth taking.  
 
 10/10
+
+![Mkgee Album Cover](/assets/images/mkgee.jpeg)
