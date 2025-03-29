@@ -23,5 +23,22 @@ Embed visualizations, text, and images to guide the reader down the page.
 ### 📈 Visualization 1: [Chart Title]
 Some narrative to introduce your chart.
 
+<figure class="figure-wrapper">
+  <img src="/assets/images/map.png" alt="Crime pattern visualization">
+  <figcaption class="figure-caption">Figure 2: District distribution of burglary cases in San Francisco during COVID-19 lockdown periods</figcaption>
+</figure>
+
+Through a series of visualizations, the project highlights how crime varies across neighborhoods and time periods. The goal is to provide a clear, engaging narrative that helps readers—whether researchers, residents, or casual visitors—understand the broader trends and dynamics of urban crime in San Francisco.
+
+<!-- <figure class="figure-wrapper">
+  <img src="/assets/images/interactive.png" alt="Crimes per hour of the day in 2020">
+  <figcaption class="figure-caption">Figure 2: District distribution of burglary cases in San Francisco during COVID-19 lockdown periods</figcaption>
+</figure> -->
+
+<figure class="figure-wrapper">
+  <iframe src="/assets/images/burglary_by_hour.html" width="800" height="600" frameborder="0"></iframe>
+  <figcaption class="figure-caption">Figure 3: Interactive visualization of burglary crimes by hour of day across different districts in San Francisco (2020). Click on district names in the legend to show/hide them.</figcaption>
+</figure>
+
 
 ---
