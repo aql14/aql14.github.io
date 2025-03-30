@@ -71,6 +71,7 @@ A similar trend emerges for education levels, which often reflect socioeconomic 
 ### 🤔 Challenging Common Assumptions
 
 You may think that burglaries would be more common in low-income areas or areas with lower levels of formal education, while wealthier neighborhoods would have a greater investment in security measures [4].
+
 However, the data contradicts these assumptions, burglaries were more common in wealthier areas. Interestingly during the pandemic, lower-income neighborhoods with lower education levels residents had a lower probability of experiencing burglaries. 
 
 ### 🔮 Future Research Directions
