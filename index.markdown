@@ -114,9 +114,13 @@ While burglary patterns during the pandemic varied across districts, a general s
 ## References 
 
 [1] Uggen, C. (2012). Crime and the Great Recession. Stanford Center on Poverty and Inequality. https://inequality.stanford.edu/sites/default/files/Crime_fact_sheet.pdf
+
 [2] Regalado, J., Timmer, A., & Jawaid, A. (2022). Crime and deviance during the COVID-19 pandemic. Sociology Compass, 16(4), e12974. https://doi.org/10.1111/soc4.12974
+
 [3] The San Francisco Standard. (2022, December 8). San Francisco neighborhood maps show new census data. https://sfstandard.com/2022/12/08/san-francisco-neighborhood-new-census-data-maps/
+
 [4] Walden University. (n.d.). What influences criminal behavior? Walden University. https://www.waldenu.edu/online-bachelors-programs/bs-in-criminal-justice/resource/what-influences-criminal-behavior
+
 [5] Safewise. (n.d.). 8 surprising home burglary statistics. Safewise. https://www.safewise.com/blog/8-surprising-home-burglary-statistics/#Sources
 
 
