@@ -38,6 +38,7 @@ To understand how burglary has evolved in San Francisco, we began by zooming out
 ### 💭 Here’s what stands out from Figure 1:
 
 In the early 2000s, burglary cases were relatively high, peaking around 2005 with over 7,000 reported burglaries. A notable decline followed from 2007 to 2011, coinciding with the 2008 Great Recession. This remains a rare case; instead of crime increasing, as is often expected during economic crises, crime continued to decline. According to the Stanford Center on Poverty and Inequality, crime rates across the U.S. kept falling during this period, but at a slower pace.
+
 After 2012, San Francisco entered a period of relative stability, with burglary hovering between 5,800 and 6,200 cases annually, until 2020.
 
 ### 🦠 Then, the pandemic spiked. COVID-19 took over the world.
