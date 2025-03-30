@@ -14,10 +14,15 @@ But suddenly, 2020 happened, and with it, COVID-19, now ranked among the world�
 COVID-19. The infamous pandemic that knocked everybody up. It swept through the world and brought every big city to a standstill, and San Francisco wasn’t an exception. Streets emptied. Offices shut down. People suddenly faced an obliged lockdown. In a city known for its non-stop rush, stillness became the new normal. And with this stillness, burglary, like many other crimes, began to shift up in surprising ways. 
 
 Burglary is the illegal entry of a building with the intent to commit a crime. Burglary doesn’t happen in broad daylight or under dramatic headlines. It happens quietly, behind closed doors, in homes, apartments, and even businesses. Over the past two decades, burglary has taken on new patterns as the city has evolved and with the pandemic even more. 
+
 This story unpacks how burglary affected the city of San Francisco during this global crisis, which districts saw the most break-ins, how the time of day affected these behaviors and an analysis of the trends that arose in such a non-expected situation for everybody. 
+
 In this project, you'll be immersed in a deep dive into San Francisco’s burglary patterns during one of the most unusual years in recent history: 2020.
+
 Using publicly available data from the San Francisco Police Department, we analyzed over 20 years of crime reports, from 2003 to the present. This rich dataset includes more than 2 million reported incidents, ranging from thefts and assaults to vandalism and vehicle break-ins.
+
 With city streets emptied and routines stopped, we asked ourselves: How did this disruption affect burglary trends across San Francisco?
+
 We filtered and visualized the data with one goal in mind:
 To understand how burglary patterns were shaped by the COVID-19 crisis and what these shifts reveal about the changing situation of the city. 
 
