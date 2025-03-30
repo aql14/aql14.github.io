@@ -4,7 +4,7 @@
 
 # page does not show the posts folder
 layout: page
-title: "Burglaries during: The Curious Case of San Francisco"
+title: "Burglaries during COVID-19: The Curious Case of San Francisco"
 ---
 
 Perched on the edge of the California coast, San Francisco is a city of contrasts; tech giants meet glamorous Victorian streets while yoga studios stand near graffiti-tagged alleys. These contrasts inherently bring with them a cultural diversity crammed into 10 districts that feel undeniably captivating.
@@ -37,7 +37,6 @@ After 2012, San Francisco entered a period of relative stability, with burglary 
 
 ### 🦠 Then, the pandemic spiked. COVID-19 took over the world.
 
-<<<<<<< HEAD
 With COVID-19, a drastic shift arose. Burglary spiked dramatically, peaking in 2020 with over 9,000 reported incidents, the highest in two decades. But this wasn’t due to a sensational rise in criminal behavior. Instead, it reflected a deeper transformation of the city’s social and economic structure.
 
 Lockdowns, shutdown businesses, empty streets, police departments shifted focus, and many establishments left unoccupied created the ideal conditions for opportunistic burglary. At the same time, job losses, housing insecurity, and a widening wealth gap intensified pressure on vulnerable populations. These stressors, according to the article Crime and deviance during the COVID-19 pandemic [2], are key drivers of property crime, especially during unstable periods.
@@ -51,16 +50,8 @@ Since then, burglary rates have gradually declined but remain above pre-pandemic
 ## 📈 Visualization 2: Burglary Distribution Across San Francisco’s Districts in 2020
 
 <figure class="figure-wrapper">
-=======
-<!-- <figure class="figure-wrapper">
->>>>>>> 5f15962a9d04e523834118d6380f9b87295d731d
   <img src="/assets/images/map.png" alt="Crime pattern visualization">
   <figcaption class="figure-caption">Figure 2: District distribution of burglary cases in San Francisco during COVID-19 lockdown periods</figcaption>
-</figure> -->
-
-<figure class="figure-wrapper">
-  <iframe src="/assets/images/sf_burglary_map.html" width="1200" height="800" frameborder="0"></iframe>
-  <figcaption class="figure-caption">Figure 2: Interactive map of burglary cases by district in San Francisco (2020). Hover over districts to see details.</figcaption>
 </figure>
 
 As shown in the previous graph, 2020 recorded the highest number of burglaries in San Francisco. But where exactly did these crimes occur? San Francisco is divided into 10 police districts: Bayview, Central, Ingleside, Mission, Northern, Park, Richmond, Southern, Taraval, and Tenderloin. This analysis focuses on how burglaries were distributed across these neighborhoods on Figure 2.
@@ -118,7 +109,7 @@ Despite having a relatively low burglary rate, Bayview followed a different patt
 
 While burglary patterns during the pandemic varied across districts, a general shift toward nighttime crime is evident, contradicting the usual trend of daytime burglaries. However, certain areas,, still followed the expected daylight pattern. These insights suggest that external factors may have influenced criminal behavior during this period.
 
-## 📚 References 
+## References 
 
 [1] Uggen, C. (2012). Crime and the Great Recession. Stanford Center on Poverty and Inequality. https://inequality.stanford.edu/sites/default/files/Crime_fact_sheet.pdf 
 [2] Regalado, J., Timmer, A., & Jawaid, A. (2022). Crime and deviance during the COVID-19 pandemic. Sociology Compass, 16(4), e12974. https://doi.org/10.1111/soc4.12974
@@ -127,6 +118,9 @@ While burglary patterns during the pandemic varied across districts, a general s
 [4] Walden University. (n.d.). What influences criminal behavior? Walden University. https://www.waldenu.edu/online-bachelors-programs/bs-in-criminal-justice/resource/what-influences-criminal-behavior
 
 [5] Safewise. (n.d.). 8 surprising home burglary statistics. Safewise. https://www.safewise.com/blog/8-surprising-home-burglary-statistics/#Sources
+
+
+
 
 
 ---
