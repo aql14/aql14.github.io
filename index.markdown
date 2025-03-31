@@ -55,8 +55,13 @@ Since then, burglary rates have gradually declined but remain above pre-pandemic
 
 ## 📈 Visualization 2: Burglary Distribution Across San Francisco’s Districts in 2020
 
-<figure class="figure-wrapper">
+<!-- <figure class="figure-wrapper">
   <img src="/assets/images/map.png" alt="Crime pattern visualization">
+  <figcaption class="figure-caption">Figure 2: District distribution of burglary cases in San Francisco during COVID-19 lockdown periods</figcaption>
+</figure> -->
+
+<figure class="figure-wrapper">
+  <iframe src="/assets/images/sf_burglary_map.html" width="1000" height="800" frameborder="0"></iframe>
   <figcaption class="figure-caption">Figure 2: District distribution of burglary cases in San Francisco during COVID-19 lockdown periods</figcaption>
 </figure>
 
