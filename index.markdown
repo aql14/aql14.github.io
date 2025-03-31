@@ -143,6 +143,11 @@ While burglary patterns during the pandemic varied across districts, a general s
 
 # Contributions 
 
+Page set up - s250202
+Story development - s250273 & S250221
+Introduction & Visualization 1 - s250202 & 250221
+Visualization 2 & 3 - s250273 & s250202
+
 
 
 
