@@ -27,10 +27,9 @@
     width: 100%;
 }
 
-body {
-  max-width: 800px;       /* Optional: keeps content from stretching too wide */
-  margin: 0 auto;          /* Centers the content horizontally */
-  text-align: justify;     /* Justifies the text */
-  padding: 20px;           /* Adds space around the content */
-  font-family: Arial, sans-serif;  /* Optional: for better readability */
+.justified {
+  text-align: justify;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
 }

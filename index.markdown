@@ -5,7 +5,9 @@
 # page does not show the posts folder
 layout: page
 title: "Burglaries during COVID-19: The Curious Case of San Francisco"
+
 ---
+<div class="justified">
 
 Perched on the edge of the California coast, San Francisco is a city of contrasts; tech giants meet glamorous Victorian streets while yoga studios stand near graffiti-tagged alleys. These contrasts inherently bring with them a cultural diversity crammed into 10 districts that feel undeniably captivating.
 
@@ -139,7 +141,10 @@ While burglary patterns during the pandemic varied across districts, a general s
 
 [5] Safewise. (n.d.). 8 surprising home burglary statistics. Safewise. https://www.safewise.com/blog/8-surprising-home-burglary-statistics/#Sources
 
+# Contributions 
 
+
+</div>
 
 
 
