@@ -26,7 +26,7 @@ With city streets emptied and routines stopped, we asked ourselves: How did this
 We filtered and visualized the data with one goal in mind:
 To understand how burglary patterns were shaped by the COVID-19 crisis and what these shifts reveal about the changing situation of the city. 
 
-## 📈 Visualization 1 - Before and After: Two Decades of Burglary in San Francisco
+# Before and After: Two Decades of Burglary in San Francisco
 
 To understand how burglary has evolved in San Francisco, we began by zooming out, way out. The chart below shows burglary incidents from 2003 to early 2024, giving us a long-term view of the city’s situation when it comes to break-ins.
 
@@ -35,13 +35,13 @@ To understand how burglary has evolved in San Francisco, we began by zooming out
   <figcaption class="figure-caption">Figure 1: Spatial distribution of burglary cases in San Francisco during COVID-19 lockdown periods</figcaption>
 </figure>
 
-### 💭 Here’s what stands out from Figure 1:
+### Here’s what stands out from Figure 1:
 
 In the early 2000s, burglary cases were relatively high, peaking around 2005 with over 7,000 reported burglaries. A notable decline followed from 2007 to 2011, coinciding with the 2008 Great Recession. This remains a rare case; instead of crime increasing, as is often expected during economic crises, crime continued to decline. According to the Stanford Center on Poverty and Inequality, crime rates across the U.S. kept falling during this period, but at a slower pace.
 
 After 2012, San Francisco entered a period of relative stability, with burglary hovering between 5,800 and 6,200 cases annually, until 2020.
 
-### 🦠 Then, the pandemic spiked. COVID-19 took over the world.
+### Then, the pandemic spiked. COVID-19 took over the world.
 
 With COVID-19, a drastic shift arose. Burglary spiked dramatically, peaking in 2020 with over 9,000 reported incidents, the highest in two decades. But this wasn’t due to a sensational rise in criminal behavior. Instead, it reflected a deeper transformation of the city’s social and economic structure.
 
@@ -49,11 +49,11 @@ Lockdowns, shutdown businesses, empty streets, police departments shifted focus,
 
 The spike in burglary during 2020 reflects how fragile urban systems become under crisis.
 
-### ⬇️ A gradual decline – But not a return to “Normal”
+### A gradual decline – But not a return to “Normal”
 
 Since then, burglary rates have gradually declined but remain above pre-pandemic levels. 
 
-## 📈 Visualization 2: Burglary Distribution Across San Francisco’s Districts in 2020
+# Burglary Distribution Across San Francisco’s Districts in 2020
 
 <!-- <figure class="figure-wrapper">
   <img src="/assets/images/map.png" alt="Crime pattern visualization">
@@ -67,23 +67,23 @@ Since then, burglary rates have gradually declined but remain above pre-pandemic
 
 As shown in the previous graph, 2020 recorded the highest number of burglaries in San Francisco. But where exactly did these crimes occur? San Francisco is divided into 10 police districts: Bayview, Central, Ingleside, Mission, Northern, Park, Richmond, Southern, Taraval, and Tenderloin. This analysis focuses on how burglaries were distributed across these neighborhoods on Figure 2.
 
-### 📚 Socioeconomic Status and Burglary Trends
+### Socioeconomic Status and Burglary Trends
 
 Burglary rates in relation to the socioeconomic status reveal an interesting trend. The Northern district, home to some of the wealthiest neighborhoods, experienced the highest number of burglaries. In this area, between 20% and over 40% of households reported annual incomes exceeding $200K [3]. In contrast, the Tenderloin district, where only 6.5% of households earn over $200K, had the lowest burglary rate [3].  This pattern suggests a correlation between wealth and burglary frequency, with wealthier neighborhoods experiencing higher rates.
 
 A similar trend emerges for education levels, which often reflect socioeconomic status. In the Northern district, 60% to 80% of residents hold a bachelor’s degree or higher, compared to just 36% in Tenderloin [3]. While education may not directly influence burglary rates, it reinforces the relationship between wealth and crime patterns.
 
-### 🤔 Challenging Common Assumptions
+### Challenging Common Assumptions
 
 You may think that burglaries would be more common in low-income areas or areas with lower levels of formal education, while wealthier neighborhoods would have a greater investment in security measures [4].
 
 However, the data contradicts these assumptions, burglaries were more common in wealthier areas. Interestingly during the pandemic, lower-income neighborhoods with lower education levels residents had a lower probability of experiencing burglaries. 
 
-### 🔮 Future Research Directions
+### Future Research Directions
 
 To gain deeper insights into these trends, a follow-up study comparing burglary patterns before, during, and after the pandemic would be valuable. Analyzing whether burglary rates have since returned to pre-pandemic levels or if new long-term patterns have emerged could help clarify the factors influencing these shifts.
 
-## 📈 Visualization 3: Burglary Hourly Trends During the Pandemic.
+# Burglary Hourly Trends During the Pandemic.
 
 Most burglaries occur in broad daylight, contrary to the common assumption that they happen at night [5]. However, did this trend hold during the pandemic? In this section,  burglary hourly patterns in different districts are analyzed.
 
@@ -97,21 +97,21 @@ Most burglaries occur in broad daylight, contrary to the common assumption that 
   <figcaption class="figure-caption">Figure 3: Interactive visualization of burglary crimes by hour of day across different districts in San Francisco (2020). Click on district names in the legend to show/hide them.</figcaption>
 </figure>
 
-### 📍 Northern District: The Most Burglarized Area
+### Northern District: The Most Burglarized Area
 
 Northern district shows a distinct pattern. Most burglaries occurred between midnight and 6 AM, then gradually declined until noon. A minor increase was observed during the early afternoon (12 PM to 2 PM), while the safest hours, when burglaries were least frequent,  were between 3 PM and midnight. This contrasts with the usual pattern suggesting that burglaries are more common in daylight.
 
 Mission, Central, and Southern which had elevated burglary levels but not as high as Northern, followed a similar trend. Interestingly, each district experienced a noticeable surge in burglaries between 12 PM and 1 PM.
 
-### 📍 Tenderloin: The Safest District from Burglaries
+### Tenderloin: The Safest District from Burglaries
 
 In Tenderloin, the trend remained consistent with most crimes occurring between midnight and 3 AM. A sporadic spike was observed between 12 PM and 2 PM. Overall, the safest hours were from 3 PM to midnight.
 
-### 📍 Bayview: A Departure from the Nighttime Trend
+### Bayview: A Departure from the Nighttime Trend
 
 Despite having a relatively low burglary rate, Bayview followed a different pattern. The highest burglary rates occurred between 5 AM and 6 AM and from 11 AM to 6 PM. This aligns with burglaries being more common during daylight hours.
 
-### 🤔 Mixed Patterns
+### Mixed Patterns
 
 •	Richmond: Most burglaries occurred between midnight and 3 AM, with additional spikes at 8 AM and 10 PM. The safest hours were in the afternoon.
 
@@ -119,11 +119,11 @@ Despite having a relatively low burglary rate, Bayview followed a different patt
 
 •	Ingleside: Burglaries peaked between 4 AM and 6 AM, but overall, incidents were more evenly distributed throughout the day
 
-### ❗️ Takeaways
+### Takeaways
 
 While burglary patterns during the pandemic varied across districts, a general shift toward nighttime crime is evident, contradicting the usual trend of daytime burglaries. However, certain areas,, still followed the expected daylight pattern. These insights suggest that external factors may have influenced criminal behavior during this period.
 
-## References 
+# References 
 
 [1] Uggen, C. (2012). Crime and the Great Recession. Stanford Center on Poverty and Inequality. https://inequality.stanford.edu/sites/default/files/Crime_fact_sheet.pdf
 
